@@ -3,9 +3,10 @@ This is a simple Tic-Tac-Toe (X-O) game built using HTML, CSS, and JavaScript. I
 
 Features:
 Two-player mode local.
-Win detection for all possible combinations.
-Reset button to start a new game.
-Simple and clean UI.
+Winning Cell Highlight.
+Draw Detection.
+Restart & Reset Score Buttons.
+Responsive Design.
 Fully responsive – works on desktop and mobile.
 
 Tech stack:
